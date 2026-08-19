@@ -1,4 +1,2 @@
-# git course
-this is complete git course
+# i am from netmirror
 
-# this from update branch.
