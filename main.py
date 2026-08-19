@@ -3,3 +3,6 @@ if user == user[::-1]:
     print('Pallindrome.')
 else:
     print('not a pallindrome.')
+
+
+print('thanks for watching bye bye.')
